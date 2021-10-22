@@ -1,6 +1,6 @@
 exercises = {
-  reading_doc: 8,
-  reading_doc2: 3,
+  reading_documentation: 8,
+  reading_documentation2: 3,
   variable_scope: 10,
   loops1: 10,
   loops2: 10,
